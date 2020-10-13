@@ -25,3 +25,6 @@ The main tabs enables you to proceed with some actions :
 	- **Stop generating** : stops the process.
 	- **Dist. Est.** : use the distance estimator algorithm to generate the 3D fractals.
 - Show : by clicking on this tab, you can see the image in its full resolution.
+
+## How to open the application
+To run the application, make sure that you have java installed on your machine (Oracle Java 14 Runtime). Double-clicked on the file 3DMandelbrot.jar and the application will start.
